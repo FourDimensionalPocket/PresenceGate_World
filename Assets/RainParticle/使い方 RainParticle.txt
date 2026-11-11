@@ -1,0 +1,26 @@
+・雨粒の大きさを変えたい
+「Start Size」の値を変えてください。反映されなければシーンビューから「Rain Particle」を「Restart」してください。
+
+
+・雨の落下速度を変えたい
+「Gravity Modifier」の値を大きくすると、雨の落下速度が速くなります。反映されなければシーンビューから「Rain Particle」を「Restart」してください。
+
+
+・雨量を変えたい
+「Emission」>「Rate over Time」の値を大きくすると、雨量が多くなります。反映されなければシーンビューから「Rain Particle」を「Restart」してください。
+
+
+・雨の降る範囲の形を変えたい
+「Shape」>「Shape」で任意の形に変更できます。反映されなければシーンビューから「Rain Particle」を「Restart」してください。
+
+
+・雨の降る範囲を変えたい
+「Shape」>「Scale」の値を変えてください。反映されなければシーンビューから「Rain Particle」を「Restart」してください。
+
+
+・雨の軌跡の長さを変えたい
+「Trails」>「Lifetime」の値を大きくすると、雨の軌跡が長くなります。反映されなければシーンビューから「Rain Particle」を「Restart」してください。
+
+
+・雨の軌跡の太さを変えたい
+「Trails」>「Width over Trail」の値を大きくすると、雨の軌跡が太くなります。反映されなければシーンビューから「Rain Particle」を「Restart」してください。
